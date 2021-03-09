@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was my first attempt to create a Meme generator with React. May not be the best one on the marketplace but it does the trick. By the time i created this repo i wasn't that focused on making this as pretty as possible so below this short caption you'll find the standard react read.me.
+Thanks for reaching me out, enjoy the MemeGeneraor
 
 ## Available Scripts
 
