@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/MadalinMad/MemeGenerator",
-  "name": "meme-generator",
+  "name": "mad-meme-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
